@@ -6,7 +6,7 @@ const nextConfig = {
   env: {
     name: 'Titikasm',
     description: 'The official Titico store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
+    icon: '/gato.png',
     listUrl: 'https://kasm-wr.titico.com.br/',
     contactUrl: 'https://titico.com.br',
   },
