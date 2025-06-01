@@ -8,7 +8,7 @@ const nextConfig = {
     description: 'The official Titico store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://kasm-wr.titico.com.br/',
-    contactUrl: 'https://kasmweb.com/support',
+    contactUrl: 'https://titico.com.br',
   },
   reactStrictMode: true,
   basePath: '/1.0',
