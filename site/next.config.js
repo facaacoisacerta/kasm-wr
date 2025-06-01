@@ -4,7 +4,7 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Titikasm Workspace Registry',
+    name: 'Titikasm',
     description: 'The official Titico store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://kasm-wr.titico.com.br/',
