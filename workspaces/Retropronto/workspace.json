@@ -1,6 +1,6 @@
 {
   "description": "Retroarch+cores",
-  "docker_registry": "https://ghcr.io/",
+  "docker_registry": "https://index.docker.io/v1/",
   "image_src": "retropronto.png",
   "categories": [
     "Games"
@@ -12,7 +12,7 @@
   "compatibility": [
     {
       "version": "1.17.x",
-      "image": "ghcr.io/zvvl/retropronto:1.0",
+      "image": "titicocombr/retropronto:1.0",
       "uncompressed_size_mb": 3789,
       "available_tags": [
         "1.0"
